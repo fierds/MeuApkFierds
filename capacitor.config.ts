@@ -1,0 +1,1 @@
+import type { CapacitorConfig } from '@capacitor/cli'; const config: CapacitorConfig = {appId:'br.com.vendasemdia.app',appName:'Vendas em Dia',webDir:'dist'}; export default config
